@@ -6,3 +6,4 @@ VERSION 1
 2d3e6b85-9d08-56b3-af67-cb57a9f50906:Advent 2026/Wreaths:Advent 2026-Wreaths
 4cafa08a-fe48-5243-a881-1bd3fd7d81e7:Advent 2026/Ornaments:Advent 2026-Ornaments
 d0fd3e29-0dcb-569f-ad18-7db9d8da50f0:Advent 2026/Tree Toppers:Advent 2026-Tree Toppers
+62330158-c793-5a28-b974-2b60b96bf712:Advent 2026/Tree Sets:Advent 2026-Tree Sets

@@ -7,7 +7,7 @@
    "description": "A full-size Nordmann fir with soft, glossy needles. The classic living-room Christmas tree, ready for your ornaments.",
    "file": "items/nordmann-fir/gift.blend",
    "preview": "items/nordmann-fir/preview.png",
-   "size": 56989100,
+   "size": 56989089,
    "assets": [
     {
      "type": "OBJECT",
@@ -25,7 +25,7 @@
    "description": "A full-size Scots pine with long blue-green needles and an open, natural shape.",
    "file": "items/scots-pine/gift.blend",
    "preview": "items/scots-pine/preview.png",
-   "size": 12055210,
+   "size": 12055239,
    "assets": [
     {
      "type": "OBJECT",
@@ -43,7 +43,7 @@
    "description": "A pastel lavender tree with warm lights already woven into the branches.",
    "file": "items/lavender-pre-lit-tree/gift.blend",
    "preview": "items/lavender-pre-lit-tree/preview.png",
-   "size": 31349052,
+   "size": 31350114,
    "assets": [
     {
      "type": "OBJECT",
@@ -61,7 +61,7 @@
    "description": "A candy-pink artificial tree for playful, colourful Christmas scenes.",
    "file": "items/pink-tree/gift.blend",
    "preview": "items/pink-tree/preview.png",
-   "size": 31021287,
+   "size": 31021298,
    "assets": [
     {
      "type": "OBJECT",
@@ -79,7 +79,7 @@
    "description": "A thick fir wreath for doors, windows and mantels.",
    "file": "items/fir-wreath/gift.blend",
    "preview": "items/fir-wreath/preview.png",
-   "size": 10030975,
+   "size": 10030972,
    "assets": [
     {
      "type": "OBJECT",
@@ -364,7 +364,7 @@
   "silver-glitter-bethlehem-star": {
    "title": "Silver Bethlehem Star",
    "kind": "object",
-   "description": "A silver glitter star for the very top of the tree. The perfect last door.",
+   "description": "A silver glitter star for the very top of the tree.",
    "file": "items/silver-glitter-bethlehem-star/gift.blend",
    "preview": "items/silver-glitter-bethlehem-star/preview.png",
    "size": 157191,
@@ -372,6 +372,24 @@
     {
      "type": "OBJECT",
      "name": "Silver Glitter Bethlehem Star"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "traditional-christmas-tree-set": {
+   "title": "Traditional Christmas Tree Set",
+   "kind": "object",
+   "description": "The grand finale: a fully dressed traditional tree with ornaments, lights, topper, skirt and gifts underneath. Drop it in and your scene is Christmas.",
+   "file": "items/traditional-christmas-tree-set/gift.blend",
+   "preview": "items/traditional-christmas-tree-set/preview.png",
+   "size": 57189792,
+   "assets": [
+    {
+     "type": "COLLECTION",
+     "name": "Traditional Christmas Tree Set"
     }
    ],
    "from": {
@@ -405,7 +423,8 @@
    "reflector-ball-red"
   ],
   "7": [
-   "straw-sunburst"
+   "straw-sunburst",
+   "silver-glitter-bethlehem-star"
   ],
   "8": [
    "candy-cane-red-green",
@@ -424,7 +443,7 @@
    "nutcracker-gift-bearer"
   ],
   "12": [
-   "silver-glitter-bethlehem-star"
+   "traditional-christmas-tree-set"
   ]
  }
 }
