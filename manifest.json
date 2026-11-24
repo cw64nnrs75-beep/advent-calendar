@@ -1,0 +1,430 @@
+{
+ "season": 2026,
+ "items": {
+  "nordmann-fir": {
+   "title": "Nordmann Fir",
+   "kind": "object",
+   "description": "A full-size Nordmann fir with soft, glossy needles. The classic living-room Christmas tree, ready for your ornaments.",
+   "file": "items/nordmann-fir/gift.blend",
+   "preview": "items/nordmann-fir/preview.png",
+   "size": 56989100,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Nordmann Fir"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "scots-pine": {
+   "title": "Scots Pine",
+   "kind": "object",
+   "description": "A full-size Scots pine with long blue-green needles and an open, natural shape.",
+   "file": "items/scots-pine/gift.blend",
+   "preview": "items/scots-pine/preview.png",
+   "size": 12055210,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Scots Pine"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "lavender-pre-lit-tree": {
+   "title": "Lavender Pre-Lit Tree",
+   "kind": "object",
+   "description": "A pastel lavender tree with warm lights already woven into the branches.",
+   "file": "items/lavender-pre-lit-tree/gift.blend",
+   "preview": "items/lavender-pre-lit-tree/preview.png",
+   "size": 31349052,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Lavender Pre-Lit Tree"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "pink-tree": {
+   "title": "Pink Tree",
+   "kind": "object",
+   "description": "A candy-pink artificial tree for playful, colourful Christmas scenes.",
+   "file": "items/pink-tree/gift.blend",
+   "preview": "items/pink-tree/preview.png",
+   "size": 31021287,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Pink Tree"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "fir-wreath": {
+   "title": "Fir Wreath",
+   "kind": "object",
+   "description": "A thick fir wreath for doors, windows and mantels.",
+   "file": "items/fir-wreath/gift.blend",
+   "preview": "items/fir-wreath/preview.png",
+   "size": 10030975,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Fir Wreath"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "swirl-onion-green": {
+   "title": "Green Swirl Onion",
+   "kind": "object",
+   "description": "An onion-shaped glass drop with a green swirl, straight from a traditional tree.",
+   "file": "items/swirl-onion-green/gift.blend",
+   "preview": "items/swirl-onion-green/preview.png",
+   "size": 568067,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Swirl Onion Green"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "glitter-red-ball": {
+   "title": "Red Glitter Ball",
+   "kind": "object",
+   "description": "A red bauble covered in glitter. Every sparkle is procedural.",
+   "file": "items/glitter-red-ball/gift.blend",
+   "preview": "items/glitter-red-ball/preview.png",
+   "size": 388929,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Glitter Red Ball"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "acrylic-snowflake": {
+   "title": "Acrylic Snowflake",
+   "kind": "object",
+   "description": "A clear acrylic snowflake that catches the light like ice.",
+   "file": "items/acrylic-snowflake/gift.blend",
+   "preview": "items/acrylic-snowflake/preview.png",
+   "size": 322026,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Acrylic Snowflake"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "wave-silver-ball": {
+   "title": "Silver Wave Ball",
+   "kind": "object",
+   "description": "A silver bauble with a frosty wave pattern.",
+   "file": "items/wave-silver-ball/gift.blend",
+   "preview": "items/wave-silver-ball/preview.png",
+   "size": 771287,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Wave Silver Ball"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "glass-pinecone-gold-snow": {
+   "title": "Golden Glass Pinecone",
+   "kind": "object",
+   "description": "A blown-glass pinecone in gold with a dusting of snow.",
+   "file": "items/glass-pinecone-gold-snow/gift.blend",
+   "preview": "items/glass-pinecone-gold-snow/preview.png",
+   "size": 661278,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Glass Pinecone Gold Snow"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "reflector-ball-red": {
+   "title": "Red Reflector Ball",
+   "kind": "object",
+   "description": "A vintage reflector bauble with a quilted, mirror-like dimple.",
+   "file": "items/reflector-ball-red/gift.blend",
+   "preview": "items/reflector-ball-red/preview.png",
+   "size": 394341,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Reflector Ball Red"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "straw-sunburst": {
+   "title": "Straw Sunburst",
+   "kind": "object",
+   "description": "A Nordic straw sunburst, tied by hand (well, by nodes).",
+   "file": "items/straw-sunburst/gift.blend",
+   "preview": "items/straw-sunburst/preview.png",
+   "size": 335876,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Straw Sunburst"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "candy-cane-red-green": {
+   "title": "Candy Cane",
+   "kind": "object",
+   "description": "A red-and-green striped candy cane with a glossy sugar finish.",
+   "file": "items/candy-cane-red-green/gift.blend",
+   "preview": "items/candy-cane-red-green/preview.png",
+   "size": 217727,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Candy Cane Red Green"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "candy-cane-heart-red-green": {
+   "title": "Candy Cane Heart",
+   "kind": "object",
+   "description": "Two candy canes bent into a heart. Sweet on any branch.",
+   "file": "items/candy-cane-heart-red-green/gift.blend",
+   "preview": "items/candy-cane-heart-red-green/preview.png",
+   "size": 408998,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Candy Cane Heart Red Green"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "jeweled-band-onion": {
+   "title": "Jeweled Onion",
+   "kind": "object",
+   "description": "A glamorous onion drop wrapped in a band of jewels.",
+   "file": "items/jeweled-band-onion/gift.blend",
+   "preview": "items/jeweled-band-onion/preview.png",
+   "size": 774076,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Jeweled Band Onion"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "pearl-meridian-ball": {
+   "title": "Pearl Meridian Ball",
+   "kind": "object",
+   "description": "A bauble crossed with strings of pearls and gold filigree.",
+   "file": "items/pearl-meridian-ball/gift.blend",
+   "preview": "items/pearl-meridian-ball/preview.png",
+   "size": 1253347,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Pearl Meridian Ball"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "woodland-bird-on-twig": {
+   "title": "Bird on a Twig",
+   "kind": "object",
+   "description": "A little woodland bird perched on a real-looking twig.",
+   "file": "items/woodland-bird-on-twig/gift.blend",
+   "preview": "items/woodland-bird-on-twig/preview.png",
+   "size": 229881,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Woodland Bird on Twig"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "twig-ball-with-crystals": {
+   "title": "Twig Ball with Crystals",
+   "kind": "object",
+   "description": "A woven twig ball with tiny crystals hidden inside.",
+   "file": "items/twig-ball-with-crystals/gift.blend",
+   "preview": "items/twig-ball-with-crystals/preview.png",
+   "size": 554399,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Twig Ball with Crystals"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "nutcracker-royal-guard": {
+   "title": "Nutcracker Royal Guard",
+   "kind": "object",
+   "description": "A proud nutcracker in a royal guard's uniform.",
+   "file": "items/nutcracker-royal-guard/gift.blend",
+   "preview": "items/nutcracker-royal-guard/preview.png",
+   "size": 688349,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Nutcracker Royal Guard"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "nutcracker-gift-bearer": {
+   "title": "Nutcracker Gift Bearer",
+   "kind": "object",
+   "description": "A nutcracker who brings his own present.",
+   "file": "items/nutcracker-gift-bearer/gift.blend",
+   "preview": "items/nutcracker-gift-bearer/preview.png",
+   "size": 695515,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Nutcracker Gift Bearer"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  },
+  "silver-glitter-bethlehem-star": {
+   "title": "Silver Bethlehem Star",
+   "kind": "object",
+   "description": "A silver glitter star for the very top of the tree. The perfect last door.",
+   "file": "items/silver-glitter-bethlehem-star/gift.blend",
+   "preview": "items/silver-glitter-bethlehem-star/preview.png",
+   "size": 157191,
+   "assets": [
+    {
+     "type": "OBJECT",
+     "name": "Silver Glitter Bethlehem Star"
+    }
+   ],
+   "from": {
+    "name": "Complete Procedural Christmas Tree Kit",
+    "url": "https://superhivemarket.com/products/complete"
+   }
+  }
+ },
+ "days": {
+  "1": [
+   "nordmann-fir",
+   "scots-pine"
+  ],
+  "2": [
+   "lavender-pre-lit-tree",
+   "pink-tree"
+  ],
+  "3": [
+   "fir-wreath"
+  ],
+  "4": [
+   "swirl-onion-green",
+   "glitter-red-ball"
+  ],
+  "5": [
+   "acrylic-snowflake",
+   "wave-silver-ball"
+  ],
+  "6": [
+   "glass-pinecone-gold-snow",
+   "reflector-ball-red"
+  ],
+  "7": [
+   "straw-sunburst"
+  ],
+  "8": [
+   "candy-cane-red-green",
+   "candy-cane-heart-red-green"
+  ],
+  "9": [
+   "jeweled-band-onion",
+   "pearl-meridian-ball"
+  ],
+  "10": [
+   "woodland-bird-on-twig",
+   "twig-ball-with-crystals"
+  ],
+  "11": [
+   "nutcracker-royal-guard",
+   "nutcracker-gift-bearer"
+  ],
+  "12": [
+   "silver-glitter-bethlehem-star"
+  ]
+ }
+}

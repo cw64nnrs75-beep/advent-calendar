@@ -1,0 +1,8 @@
+# Asset catalogs for the Advent Gifts library.
+VERSION 1
+
+097eb166-e4fd-5f7c-af53-ff177d63da17:Advent 2026:Advent 2026
+3ed7ab13-837e-5b77-ada8-42d18e007ffb:Advent 2026/Trees:Advent 2026-Trees
+2d3e6b85-9d08-56b3-af67-cb57a9f50906:Advent 2026/Wreaths:Advent 2026-Wreaths
+4cafa08a-fe48-5243-a881-1bd3fd7d81e7:Advent 2026/Ornaments:Advent 2026-Ornaments
+d0fd3e29-0dcb-569f-ad18-7db9d8da50f0:Advent 2026/Tree Toppers:Advent 2026-Tree Toppers
